@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvcLesson01", "TvcLesson01.csproj", "{D002FCE9-E89E-4A5F-BF0C-3E051779966E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvcLesson01Mvc", "..\TvcLesson01Mvc\TvcLesson01Mvc.csproj", "{561D0B68-FA32-4659-A55C-199E783FA0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D002FCE9-E89E-4A5F-BF0C-3E051779966E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D002FCE9-E89E-4A5F-BF0C-3E051779966E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D002FCE9-E89E-4A5F-BF0C-3E051779966E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D002FCE9-E89E-4A5F-BF0C-3E051779966E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561D0B68-FA32-4659-A55C-199E783FA0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561D0B68-FA32-4659-A55C-199E783FA0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561D0B68-FA32-4659-A55C-199E783FA0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561D0B68-FA32-4659-A55C-199E783FA0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {096E5F39-30C4-4BD4-B7D9-6DF4FE69C717}
+	EndGlobalSection
+EndGlobal
